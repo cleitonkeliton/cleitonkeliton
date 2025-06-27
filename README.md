@@ -92,7 +92,7 @@ Tecnologias: Python, SQLite
 ## 📬 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cleitonkeliton)  
-✉️ cleitonkeliton[at]email.com
+✉️ (cleitonkeliton@gmail.com)
 
 ---
 
