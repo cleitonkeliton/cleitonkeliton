@@ -11,38 +11,44 @@
 
 ## 🚀 Tecnologias que utilizo
 
-- **Back-end:** Java | Spring Boot | JPA | Maven | Python  
+- **Back-end:** Java | Spring Boot | JPA | Python  
 - **Mensageria:** Apache Kafka  
 - **Bancos de Dados:** PostgreSQL | MySQL | SQLite  
 - **Front-end:** Vue.js | HTML5 | CSS3 | JavaScript  
-- **Outros:** Git | GitHub | Linux | Metodologias Ágeis (Scrum, Kanban)
+- **Outros:** Git | GitHub | Linux (Fedora) | Metodologias Ágeis (Scrum, Kanban) | Maven
 
 ---
 
 ## 💼 Projetos em destaque
 
-### 🔧 [Sistema de Oficina Mecânica](https://github.com/cleitonkeliton/oficina-mecanica)
+### 🔧 Sistema de Oficina Mecânica
 > API RESTful com cadastro e gerenciamento de veículos, serviços e ordens de serviço.  
 Tecnologias: Spring Boot, JPA, PostgreSQL
 
+[🔗 Repositório](https://github.com/cleitonkeliton/oficina-mecanica)
+
 ---
 
-### 📊 [Análise de Opiniões](https://github.com/cleitonkeliton/analise-opinioes)
+### 📊 Análise de Opiniões
 > Classificação de sentimentos em opiniões usando aprendizado de máquina.  
 Tecnologias: Python, Pandas, Scikit-learn
 
+[🔗 Repositório](https://github.com/cleitonkeliton/analise-opinioes)
+
 ---
 
-### 📦 [Gerenciador de Estoque em Python](https://github.com/cleitonkeliton/controle-estoque-py)
+### 📦 Gerenciador de Estoque em Python
 > Aplicação CLI para controle de produtos com gravação em banco SQLite.  
 Tecnologias: Python, SQLite
+
+[🔗 Repositório](https://github.com/cleitonkeliton/controle-estoque-py)
 
 ---
 
 ## 🔄 Experiência com Kafka
 
 - Produção e consumo de mensagens com Apache Kafka  
-- Integração com Spring Boot (`spring-kafka`)  
+- Integração com Spring Boot (spring-kafka)  
 - Criação de tópicos e simulação de ambientes distribuídos  
 - Processamento assíncrono e comunicação entre microsserviços
 
@@ -52,6 +58,7 @@ Tecnologias: Python, SQLite
 
 - Criação de componentes reativos  
 - Integração com APIs RESTful  
+- Consumo de dados e exibição dinâmica  
 - Organização de rotas e estados com Vue Router e Vuex (básico)
 
 ---
@@ -61,30 +68,31 @@ Tecnologias: Python, SQLite
 - Modelagem relacional e scripts SQL  
 - Integração com JPA e Hibernate  
 - Consultas complexas com PostgreSQL e MySQL  
-- Aplicações standalone com SQLite em Python  
-- Administração de bancos em ambiente Linux
+- Administração e uso de bancos de dados em ambiente Linux
 
 ---
 
-## 📈 Estatísticas
+## 💡 Soft Skills
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cleitonkeliton&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonkeliton&layout=donut" />
-</p>
-
----
-
-## ⏱️ WakaTime Stats
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cleiton_valdevino&layout=compact&theme=transparent)](https://wakatime.com/@Cleiton_valdevino)
+- Comunicação clara e objetiva  
+- Trabalho em equipe  
+- Proatividade e curiosidade para aprender  
+- Organização e foco em resultados
 
 ---
 
-## 📬 Contato
+## 📈 GitHub Stats & Linguagens mais usadas
 
-[![LinkedIn](https://img.shields.io/badge/-Cleiton%20Keliton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleitonkeliton/)](https://www.linkedin.com/in/cleitonkeliton/)  
-✉️ cleitonkeliton@seuemail.com
+![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitonkeliton&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonkeliton&layout=compact&theme=radical)](https://github.com/cleitonkeliton)
+
+---
+
+## 📬 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cleitonkeliton)  
+✉️ cleitonkeliton[at]email.com
 
 ---
 
