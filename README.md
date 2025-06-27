@@ -4,7 +4,7 @@
 <h1 align="center">👋 Olá! Eu sou o Cleiton Keliton</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Back-end (Java & Python) • 📊 Apaixonado por dados e tecnologias modernas
+🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Back-end
 </p>
 
 ---
