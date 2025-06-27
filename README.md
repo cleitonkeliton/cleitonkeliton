@@ -15,7 +15,7 @@
 - **Mensageria:** Apache Kafka  
 - **Bancos de Dados:** PostgreSQL | MySQL | SQLite  
 - **Front-end:** Vue.js | HTML5 | CSS3 | JavaScript  
-- **Outros:** Git | GitHub | Linux (Fedora) | Metodologias Ágeis (Scrum, Kanban)
+- **Outros:** Git | GitHub | Linux | Metodologias Ágeis (Scrum, Kanban)
 
 ---
 
